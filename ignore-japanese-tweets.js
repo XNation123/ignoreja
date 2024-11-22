@@ -37,7 +37,7 @@
             } else {
                 console.log("ilgimi çekmiyor seçeneği bulunamadı.");
             }
-        }, 1000); // Menü yüklenmesi için 1 saniye bekle
+        }, 100); // Menü yüklenmesi için 1 saniye bekle
     }
 
     // İmlecin üzerindeki öğeyi kontrol et
